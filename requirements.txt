@@ -1,0 +1,6 @@
+streamlit>=1.25.0
+transformers>=4.35.0
+torch>=2.2.0
+accelerate>=0.22.0
+# Optional (useful for HF Hub auth and model downloads)
+huggingface-hub>=0.17.0
